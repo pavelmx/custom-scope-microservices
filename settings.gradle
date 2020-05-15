@@ -1,0 +1,4 @@
+rootProject.name = 'exchange-rates'
+include 'currency'
+include 'bank'
+
